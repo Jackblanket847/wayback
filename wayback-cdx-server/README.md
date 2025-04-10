@@ -1,6 +1,6 @@
 # Wayback CDX Server API - BETA #
 
-##### Changelist
+## Changelist
 
 * 2013-08-07 -- Add this changelist! Page size is now adjustable [Pagination API](#pagination-api)
 
@@ -9,7 +9,7 @@
 * 2013-08-03 -- Added support for [Collapsing](#collapsing)
 
 
-##### Table of Contents
+## Table of Contents
 
 #### [Intro and Usage](#intro-and-usage)
 
